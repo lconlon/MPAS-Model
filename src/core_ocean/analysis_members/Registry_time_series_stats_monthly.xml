@@ -143,6 +143,8 @@
 			<var name="vertVelocityTop"/>
 			<var name="normalGMBolusVelocity"/>
 			<var name="vertGMBolusVelocityTop"/>
+                        <var name="GMBolusVelocityZonal"/>
+                        <var name="GMBolusVelocityMeridional"/>
 			<var_struct name="tracersSurfaceFlux"/>
 			<var name="penetrativeTemperatureFlux"/>
 			<var name="latentHeatFlux"/>
